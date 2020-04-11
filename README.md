@@ -7,5 +7,5 @@ This is a nice project to work on when first learning website development with M
 Note: 
 The libraries and dependencies used in the project are not the latest. At the time it was built, some of the newer dependencies were causing errors thus they were deprecated.
 
-Credits:
+Inspiration:
 “The Complete Web Developer in 2020: Zero to Mastery.” Udemy, Andrei Neagoie, 27 Feb. 2020, www.udemy.com/course/the-complete-web-developer-zero-to-mastery/.
