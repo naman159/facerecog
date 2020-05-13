@@ -1,5 +1,5 @@
 FaceRecog is a web application that detects faces in pictures using the Clarifai API.  
-The web client is built using JavaScript with React.js on the front-end and Node.js & Express.js on the back-end (API). PostgreSQL is used for the database. 
+The web client is built using JavaScript with React on the front-end and Node.js & Express.js on the back-end (API). PostgreSQL is used for the database. 
 The structure of the web application is such that the front-end fetches the required data from the back-end API which manages the pipeline for user registering, login and also makes the API calls to Clarifai.
 
 This is a nice project to work on when first learning website development with MERN stack (this project uses PostgreSQL instead of MongoDB).
